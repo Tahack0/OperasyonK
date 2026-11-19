@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 413f7f5cce7172c42a7afd095660fa4e
+timeCreated: 1496613398
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 92461
+  packageName: Mine
+  packageVersion: 1.0
+  assetPath: Assets/Mine/Prefabs/Rocks/OreRed.prefab
+  uploadId: 183947

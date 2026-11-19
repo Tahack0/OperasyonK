@@ -1,0 +1,177 @@
+"/Assets/Sample/ALP_Assets/Big Oak Tree FREE/Graphics Settings.rtf" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/ALP_Assets/Big Oak Tree FREE/Models/Textures/barkOak001.png" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/ALP_Assets/Big Oak Tree FREE/Models/Textures/barkOak001_AO.png" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/ALP_Assets/Big Oak Tree FREE/Models/Textures/barkOak001_N.png" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/ALP_Assets/Big Oak Tree FREE/Models/Textures/BigOakBillboard01.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/ALP_Assets/Big Oak Tree FREE/Models/Textures/BranchesOak001.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/ALP_Assets/Big Oak Tree FREE/Models/Textures/BranchesPoplar001.tga" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/ALP_Assets/Big Oak Tree FREE/Models/Textures/BranchesPoplar001_N.tga" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/ALP_Assets/Big Oak Tree FREE/Models/Textures/Poplar_Bark001.png" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/ALP_Assets/Big Oak Tree FREE/Models/Textures/Poplar_Bark001_AO.png" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/ALP_Assets/Big Oak Tree FREE/Models/Textures/Poplar_Bark001_N.png" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/ALP_Assets/Big Oak Tree FREE/Models/Textures/Poplar_Bark001_S.png" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/ALP_Assets/Big Oak Tree FREE/Prefabs/Graphics Settings.rtf" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/ALP_Assets/Big Oak Tree FREE/Scenes/Graphics Settings.rtf" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/ALP_Assets/Big Oak Tree FREE/Scenes/TerrainDATA/Terrain.asset" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/ALP_Assets/country house01/Textures/DoorsMap01.png" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/ALP_Assets/country house01/Textures/DoorsMap01_N.png" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/ALP_Assets/country house01/Textures/OldHouseMapIndoorWall01.png" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/ALP_Assets/country house01/Textures/OldHouseMapIndoorWall01_N.png" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/ALP_Assets/country house01/Textures/OldHouseMapWood01.png" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/ALP_Assets/country house01/Textures/OldHouseMapWood01_Green.png" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/ALP_Assets/country house01/Textures/OldHouseMapWood02.png" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/ALP_Assets/country house01/Textures/OldHouseMapWood02_N.png" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/ALP_Assets/country house01/Textures/WindowMap01.png" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/ALP_Assets/country house01/Textures/WindowMap01_N.png" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Building/ALP_Assets/country house01/Textures/DoorsMap01.png" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Building/ALP_Assets/country house01/Textures/DoorsMap01_N.png" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Building/ALP_Assets/country house01/Textures/OldHouseMapIndoorWall01.png" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Building/ALP_Assets/country house01/Textures/OldHouseMapIndoorWall01_N.png" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Building/ALP_Assets/country house01/Textures/OldHouseMapWood01.png" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Building/ALP_Assets/country house01/Textures/OldHouseMapWood01_Green.png" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Building/ALP_Assets/country house01/Textures/OldHouseMapWood02.png" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Building/ALP_Assets/country house01/Textures/OldHouseMapWood02_N.png" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Building/ALP_Assets/country house01/Textures/WindowMap01.png" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Building/ALP_Assets/country house01/Textures/WindowMap01_N.png" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Building/Mine/Models/Base/Materials/Stone_AlbedoSmoothness.png" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Building/Mine/Models/Base/Materials/Stone_Normal.png" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Building/Mine/Models/Props/Materials/Wood_AlbedoSmoothness.png" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/DelthorGames/AKM/Textures/AKMDis_Mat4K_NormalOpenGLFix.png" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/BLD_BrickHouse1_A.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/BLD_BrickHouse1_MS.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/BLD_BrickHouse1_N.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/BLD_Bridge1_A.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/BLD_Bridge1_MS.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/BLD_Bridge1_N.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/BLD_Cabins1_A.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/BLD_Cabins1_MS.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/BLD_Cabins1_N.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/BLD_Church1_A.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/BLD_Church1_MS.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/BLD_Church1_N.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/BLD_Doors1_A.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/BLD_Doors1_MS.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/BLD_Doors1_N.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/BLD_IndBuilding1_A.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/BLD_IndBuilding1_MS.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/BLD_IndBuilding1_N.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/BLD_Rubble1_A.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/BLD_Rubble1_N.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/BLD_Structures1_A.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/BLD_Structures1_MS.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/BLD_Structures1_N.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/BLD_Structures2_A.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/BLD_Structures2_MS.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/BLD_Structures2_N.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/BLD_Villa1_A.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/BLD_Villa1_MS.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/BLD_Villa1_N.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/BLD_Villa2_A.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/BLD_Villa2_MS.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/BLD_Villa2_N.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/FOL_Hedge1_N.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/GR_Asphalt1_AS.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/GR_Asphalt1_N.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/GR_Dirt1_AS.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/GR_Dirt1_N.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/GR_Moss1_AS.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/GR_Moss1_N.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/NAT_CobbleRocks1_A.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/NAT_CobbleRocks1_N.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/NAT_Grass1_AS.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/NAT_Grass1_N.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/NAT_Hedge1_A.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/NAT_Rocks1_A.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/NAT_Rocks1_N.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/PROP_Beds1_A.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/PROP_Beds1_N.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/PROP_Boat1_A.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/PROP_Boat1_MS.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/PROP_Boat1_N.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/PROP_Cabinets1_A.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/PROP_Cabinets1_N.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/PROP_Car1_A.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/PROP_Car1_MS.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/PROP_Car1_N.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/PROP_FlyingSaucer1_A.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/PROP_FlyingSaucer1_MS.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/PROP_FlyingSaucer1_N.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/PROP_Gravestones1_A.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/PROP_Gravestones1_MS.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/PROP_Gravestones1_N.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/PROP_ParkBench1_A.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/PROP_ParkBench1_N.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/PROP_RugsPaintigs1_A.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/PROP_RugsPaintigs1_N.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/PROP_Ship1_A.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/PROP_Ship1_MS.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/PROP_Ship1_N.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/PROP_SmallProps1_A.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/PROP_SmallProps1_N.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/PROP_SmallProps2_A.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Textures/PROP_SmallProps2_N.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Trees/SrcTextures/FOL_Branch1_AS.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Trees/SrcTextures/FOL_Branch1_N.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Trees/SrcTextures/FOL_Branch2_AS.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Trees/SrcTextures/FOL_Branch2_N.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Trees/SrcTextures/FOL_BushBranch1_D.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Trees/SrcTextures/FOL_BushBranch1_N.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Trees/SrcTextures/FOL_BushFlower1_D.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Trees/SrcTextures/FOL_BushFlower1_N.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Trees/SrcTextures/FOL_Trunk1_A.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Trees/SrcTextures/FOL_Trunk1_N.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Trees/SrcTextures/FOL_Trunk3_D.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/Content/Trees/SrcTextures/FOL_Trunk3_N.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Flooded_Grounds/PostProcessing/Textures/Lens Dirt/LensDirt02.png" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Free Island Collection/Environment/Terrain/Terrains/Terrain 1.asset" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Free Island Collection/Environment/Terrain/Terrains/Terrain 2.asset" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Free Island Collection/Environment/Terrain/Terrains/Terrain 3.asset" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Free Island Collection/Environment/Terrain/Terrains/Terrain 4.asset" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Free Island Collection/Environment/Terrain/Terrains/Terrain 5.asset" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Free Island Collection/Environment/Terrain/Textures/Cliff_1/Cliff_1_Diffuse.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Free Island Collection/Environment/Terrain/Textures/Cliff_2/Cliff_2_Diffuse.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Free Island Collection/Environment/Terrain/Textures/Dirt_1/Dirt_1_Diffuse.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Free Island Collection/Environment/Terrain/Textures/Dirt_1/Dirt_1_Normal.png" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Free Island Collection/Environment/Terrain/Textures/Dirt_2/Dirt_2_Diffuse.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Free Island Collection/Environment/Terrain/Textures/Grass_1/Grass_1_Diffuse.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Free Island Collection/Environment/Terrain/Textures/Grass_2/Grass_2_Diffuse.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Free Island Collection/Environment/Terrain/Textures/Mossy_Rock/Mossy_Rock_Diffuse.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Free Island Collection/Environment/Terrain/Textures/Sand/Sand_Diffuse.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/GrassFlowers/Demo/DemoGrassFlowers.unity" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/GrassFlowers/Textures/Ground/Grass01_BigUV.png" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Mine/Models/Base/Materials/Stone_AlbedoSmoothness.png" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Mine/Models/Base/Materials/Stone_Normal.png" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/Mine/Models/Props/Materials/Wood_AlbedoSmoothness.png" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v3/Source/Hangar_v3.tga" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v4/Source/Hangar_v4.tga" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/RPG_FPS_game_assets_industrial/Containers/Cargo_container_v1/Source/Cargo_container_v1.psd" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/RPG_FPS_game_assets_industrial/Containers/Cargo_container_v1/Source/Cargo_container_v1.tga" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/RPG_FPS_game_assets_industrial/Containers/Cargo_container_v1/Source/Cargo_container_v2.tga" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/RPG_FPS_game_assets_industrial/Containers/Cargo_container_v1/Source/Cargo_container_v3.tga" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/RPG_FPS_game_assets_industrial/Dumpsters/Dumpsters_v1/Source/Dumpsters_v1.tga" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/RPG_FPS_game_assets_industrial/Map_v1/Lightmap-0_comp_light.exr" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/RPG_FPS_game_assets_industrial/Map_v2/Lightmap-0_comp_light.exr" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/RPG_FPS_game_assets_industrial/Map_v2/Lightmap-1_comp_light.exr" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/RPG_FPS_game_assets_industrial/Map_v2/Lightmap-2_comp_light.exr" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/RPG_FPS_game_assets_industrial/Map_v2/Lightmap-3_comp_light.exr" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/RPG_FPS_game_assets_industrial/Oil_tanks/Oil_tank_v2/Source/Oil_tank_v2.tga" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/RPG_FPS_game_assets_industrial/Textures/Grass/Grass_v1.tga" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/RPG_FPS_game_assets_industrial/Textures/Skyboxes/Source/Skybox_v5.tga" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/RPG_FPS_game_assets_industrial/Textures/Skyboxes/Source/Skybox_v9.tga" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/SlimUI/Modern Menu 1/ModernMenu_V1.3.1_Documentation.pdf" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/TerrainTexturesPackFree/DemoScene/Demo.unity" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/TerrainTexturesPackFree/TerrainTextures/GrassUV01.png" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/TerrainTexturesPackFree/TerrainTextures/GrassUV01_N.png" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/TerrainTexturesPackFree/TerrainTextures/GrassUV02.png" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/TerrainTexturesPackFree/TerrainTextures/GrassUV02_N.png" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/TerrainTexturesPackFree/TerrainTextures/GroundDryLeaves01.png" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/TerrainTexturesPackFree/TerrainTextures/GroundDryLeaves01_N.png" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/TerrainTexturesPackFree/TerrainTextures/GroundStones01.png" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sample/TerrainTexturesPackFree/TerrainTextures/GroundStones01_N.png" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sapyo_Asset/M4A1/Textures/M4A1 Sopmod Body Diffuse.tga" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sapyo_Asset/M4A1/Textures/M4A1 Sopmod Iron Sight Diffuse.tga" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sapyo_Asset/M4A1/Textures/M4A1 Sopmod Magazine Diffuse.tga" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sapyo_Asset/New Folder/Ch18_nonPBR@Kneeling Inspecting.fbx" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sapyo_Asset/UnityTechnologies/EffectExamples/Shared/Textures/wood_tiled_02_n.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Sapyo_Asset/UnityTechnologies/EffectExamples/Shared/Textures/WoodNormals.tif" filter=lfs diff=lfs merge=lfs -text
+"/Assets/Scenes/Village.unity" filter=lfs diff=lfs merge=lfs -text

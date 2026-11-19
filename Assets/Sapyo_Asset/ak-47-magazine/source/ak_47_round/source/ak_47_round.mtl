@@ -1,0 +1,14 @@
+# Blender 4.1.0 MTL File: 'ak_47_round.blend'
+# www.blender.org
+
+newmtl ak_47_round
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ak_47_round_BaseColor.jpg
+map_Ns ak_47_round_Roughness.jpg
+map_refl ak_47_round_Metallic.jpg
+map_Bump -bm 1.000000 ak_47_round_Normal.jpg

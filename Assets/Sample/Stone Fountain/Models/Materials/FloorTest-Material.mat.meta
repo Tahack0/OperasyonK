@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1e000ad733997024cbc9f025997f36e9
+timeCreated: 1480587840
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 75912
+  packageName: Fountain Prop
+  packageVersion: 1.0
+  assetPath: Assets/Stone Fountain/Models/Materials/FloorTest-Material.mat
+  uploadId: 149075
